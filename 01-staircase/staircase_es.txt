@@ -1,0 +1,71 @@
+======================================================
+Detalle de la escalera (staircase)
+======================================================
+
+Esta es una escalera de tamaño :
+
+   #
+  ##
+ ###
+####
+
+Su base y su altura son iguales a . Se dibuja utilizando # símbolos y espacios. La última línea no está precedida por ningún espacio.
+Escribe un programa que imprima una escalera de tamaño .
+
+------------------------------------------------------
+Descripción de la función
+------------------------------------------------------
+Completa la función staircase en el editor de abajo.
+
+staircase tiene los siguientes parámetros
+
+int n: un número entero
+
+------------------------------------------------------
+Imprimir
+------------------------------------------------------
+
+Imprime una escalera como la descrita anteriormente.
+
+------------------------------------------------------
+Formato de entrada
+------------------------------------------------------
+
+Un único número entero, , que denota el tamaño de la escalera.
+
+------------------------------------------------------
+Restricciones
+------------------------------------------------------
+
+ 0 < n ≤ 100.
+
+------------------------------------------------------
+Formato de salida
+------------------------------------------------------
+
+Imprime una escalera de tamaño usando símbolos # y espacios.
+
+<> Nota: La última línea debe tener espacios.
+
+------------------------------------------------------
+Ejemplo de entrada
+------------------------------------------------------
+
+6 
+
+------------------------------------------------------
+Muestra de salida
+------------------------------------------------------
+
+     #
+    ##
+   ###
+  ####
+ #####
+######
+
+------------------------------------------------------
+Explicación
+------------------------------------------------------
+
+La escalera está alineada a la derecha, compuesta por símbolos # y espacios, y tiene una altura y una anchura de .
